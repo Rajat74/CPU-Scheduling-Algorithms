@@ -142,4 +142,4 @@ sudo apt-get install g++ make
      3- Priority
 
 -   Processes are assumed to be sorted based on the arrival time. If two processes have the same arrival time, then the one with the lower priority is assumed to arrive first.
-    > Check the attached [testcases](<[https://github.com/yousefkotp/CPU-Scheduling-Algorithms/tree/main/testcases](https://github.com/Rajat74/CPU-Scheduling-Algorithms/tree/main/testcases)>) for more details.
+    > Check the attached [testcases](https://github.com/yousefkotp/CPU-Scheduling-Algorithms/tree/main/testcases) for more details.
